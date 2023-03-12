@@ -1,2 +1,2 @@
 # exercicios-java
-Alguns exercicios resolvidos durante meu estudo de java
+Alguns exercícios resolvidos durante meu estudo de java.
